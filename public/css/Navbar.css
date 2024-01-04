@@ -1,0 +1,29 @@
+.header{
+    height: 80px;
+}
+.logo{
+    margin: 18px 0px 10px 47px;
+}
+.avatar{
+    margin: 15px 0px 6px 1050px;
+}
+.navbar{
+    background-color: #23A1AF;
+    height: 60px;
+}
+li{
+    float:left;
+}
+.nav_content{
+    margin: 8px 150px 0px 0px;
+}
+li a{
+    font-family: 'Comic Neue', sans-serif;
+    color:white;
+    font-size: small;
+    text-decoration: none;
+}
+#space1{
+    margin-right: 250px;
+    color: transparent;
+}

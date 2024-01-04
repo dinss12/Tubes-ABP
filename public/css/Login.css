@@ -1,0 +1,57 @@
+.loginSide{
+    margin: 200px 99px 0px 170px;
+}
+.registerSide{
+    background-color: #23A1AF;
+    padding-right: 41px;
+    color: white;
+}
+.title{
+    color: #23A1AF;
+}
+.title2{
+    margin: 100px 0px 0px 140px;
+}
+.sub-title{
+    margin: 10px 0px 0px 40px;
+}
+.logo{
+    width: 150px;
+    height: 70px;
+    margin: 20px 0px 0px 30px;
+}
+.V_line{
+    margin-left: 25px;
+    height: 665px;
+}
+.main{
+    display: flex;
+}
+.name{
+    margin: 20px 0px 5px 125px;
+}
+.pass{
+    margin: 5px 0px 5px 125px;
+}
+.name2{
+    margin: 20px 0px 5px 140px;
+}
+.Email{
+    margin: 5px 0px 5px 140px;
+} 
+.pass2{
+    margin: 5px 0px 5px 140px;
+}          
+.btn1{
+    margin-left: 190px;
+    background-color: #23A1AF;
+    color: white;
+    border-radius: 12px;
+}
+.btn2{
+    margin-top: 5px;
+    margin-left: 200px;
+    background-color: white;
+    color: #23A1AF;
+    border-radius: 12px;
+}

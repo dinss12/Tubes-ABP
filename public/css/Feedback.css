@@ -1,0 +1,10 @@
+.container{
+    border-color: black;
+    
+}
+.input[type=text] {
+    width: 100%;
+}
+.input[type=select]{
+    width: 100%;
+}
